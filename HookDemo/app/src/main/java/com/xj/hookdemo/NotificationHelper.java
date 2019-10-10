@@ -10,9 +10,7 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
-/**
- * @author xujun  on 16/7/2018.
- */
+
 public class NotificationHelper {
 
     private static final String TAG = "NotificationHelper";

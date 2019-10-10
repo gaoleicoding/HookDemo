@@ -3,9 +3,7 @@ package com.xj.hookdemo.hook;
 import android.view.View;
 import android.widget.Toast;
 
-/**
- * @author xujun  on 16/7/2018.
- */
+
 public class HookedClickListenerProxy implements View.OnClickListener {
 
     private View.OnClickListener origin;

@@ -6,9 +6,7 @@ import android.os.Handler;
 
 import com.xj.hookdemo.hook.HookResetUtils;
 
-/**
- * @author xujun  on 17/7/2018.
- */
+
 public class App extends Application {
 
     private static Object mObject;

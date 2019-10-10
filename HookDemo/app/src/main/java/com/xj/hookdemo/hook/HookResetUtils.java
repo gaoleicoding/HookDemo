@@ -5,9 +5,7 @@ import android.os.Handler;
 
 import java.lang.reflect.Field;
 
-/**
- * Created by xujun on 6/8/2018$ 11:04$.
- */
+
 public class HookResetUtils {
 
     public static void resetAms(Object amsObj) throws Exception {

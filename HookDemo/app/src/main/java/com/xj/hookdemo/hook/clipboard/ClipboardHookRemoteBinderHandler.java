@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author xujun  on 16/7/2018.
+ * @author gaolei  on 16/7/2018.
  */
 public class ClipboardHookRemoteBinderHandler implements InvocationHandler {
 

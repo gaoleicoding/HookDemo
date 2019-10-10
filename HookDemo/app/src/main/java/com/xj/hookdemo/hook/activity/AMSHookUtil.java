@@ -18,7 +18,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author xujun  on 17/7/2018.
+ * @author gaolei  on 17/7/2018.
  */
 public class AMSHookUtil {
 

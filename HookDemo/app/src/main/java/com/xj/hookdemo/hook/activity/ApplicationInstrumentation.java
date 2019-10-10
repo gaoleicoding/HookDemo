@@ -11,7 +11,7 @@ import android.util.Log;
 import java.lang.reflect.Method;
 
 /**
- * @author xujun  on 16/7/2018.
+ * @author gaolei  on 16/7/2018.
  */
 public class ApplicationInstrumentation extends Instrumentation {
 

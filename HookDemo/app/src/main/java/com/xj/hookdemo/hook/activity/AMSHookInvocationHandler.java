@@ -7,10 +7,7 @@ import android.util.Log;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
-/**
- * @author xujun
- * @time 4/8/2018 10:29.
- */
+
 public class AMSHookInvocationHandler implements InvocationHandler {
 
     public static final String ORIGINALLY_INTENT = "originallyIntent";

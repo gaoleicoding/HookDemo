@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * @author xujun  on 17/7/2018.
+ * @author gaolei  on 17/7/2018.
  */
 public class PMSHandler implements InvocationHandler {
 

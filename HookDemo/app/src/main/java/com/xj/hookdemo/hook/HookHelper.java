@@ -21,9 +21,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-/**
- * @author xujun  on 16/7/2018.
- */
+
 public class HookHelper {
 
     public static final String EXTRA_TARGET_INTENT = "extra_target_intent";

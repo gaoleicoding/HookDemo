@@ -14,7 +14,7 @@ import java.lang.reflect.Proxy;
 import java.util.Map;
 
 /**
- * Created by xujun on 4/8/2018$ 10:25$.
+ * Created by gaolei on 4/8/2018$ 10:25$.
  */
 public class ClipboardHelper {
 
